@@ -1,1 +1,3 @@
 # Projeto-Final-AED_Python-Efficiency
+
+Este trabalho desenvolve uma comparação e abordagem da linguagem Python em relação a linguagens compiladas, como C,C++,Fortran para uso em computação de alta performance. Neste artigo é utilizado como parâmetro,uma solução de equações diferenciais parciais. A base de código para reprodução deste trabalho é contido no artigo entitulado: "On the efficiency of Python for High-Perfomance Computing: A case Study Involving atenciosamente Updates for Partial Diferencial Equations" e "On the performance of the Python programming language for serial and parallel scientific computations"
